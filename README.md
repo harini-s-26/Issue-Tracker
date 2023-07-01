@@ -60,7 +60,8 @@
 ![Screenshot (1471)](https://github.com/harini-s-26/Issue-Tracker/assets/84394146/14c65f17-d4c2-4664-bf72-64bb464221e6)
 
 
-## Admin users on the other hand, can access the guest users updated table from the database
+## For Admins:
+### Admin users on the other hand, can access the guest users updated table from the database
 
 ![image](https://github.com/harini-s-26/Issue-Tracker/assets/84394146/0c8bad88-e8a1-439e-9587-8508cdd49ac2)
 
