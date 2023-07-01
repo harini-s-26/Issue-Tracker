@@ -55,8 +55,6 @@
 
 ### On clicking next, guest users can access the guest table to add, update or delete their issues
 
-![Screenshot (1470)](https://github.com/harini-s-26/Issue-Tracker/assets/84394146/7ff0e262-11a0-42d6-a548-92630a204821)
-
 ![Screenshot (1471)](https://github.com/harini-s-26/Issue-Tracker/assets/84394146/14c65f17-d4c2-4664-bf72-64bb464221e6)
 
 
@@ -67,10 +65,6 @@
 
 
 ### Admins can login and access the admin table to update and resolve the issues as such.
-
-![image](https://github.com/harini-s-26/Issue-Tracker/assets/84394146/76a1a9f3-d025-4958-bff8-b3e857287ab9) 
-
-![image](https://github.com/harini-s-26/Issue-Tracker/assets/84394146/ea32f621-f753-43b7-94e7-a1d05360b771)
 
 ![image](https://github.com/harini-s-26/Issue-Tracker/assets/84394146/a8c2e848-4c6e-453b-a57e-d13fbb0b5de1)
 
