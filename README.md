@@ -64,7 +64,7 @@
 ![image](https://github.com/harini-s-26/Issue-Tracker/assets/84394146/0c8bad88-e8a1-439e-9587-8508cdd49ac2)
 
 
-### Admins can login and access the admin table to update and resolve the issues as such.
+### Admins can login and access the admin table to update and resolve the issues.
 
 ![image](https://github.com/harini-s-26/Issue-Tracker/assets/84394146/a8c2e848-4c6e-453b-a57e-d13fbb0b5de1)
 
